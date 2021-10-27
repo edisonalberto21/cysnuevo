@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "memorandos-cy-s-client-side-solution",
+    "id": "d2bb0aec-5293-4afb-8df3-1aac2427d845",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/memorandos-cy-s.sppkg"
+  }
+}

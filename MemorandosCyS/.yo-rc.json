@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.11.0",
+    "libraryName": "memorandos-cy-s",
+    "libraryId": "d2bb0aec-5293-4afb-8df3-1aac2427d845",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

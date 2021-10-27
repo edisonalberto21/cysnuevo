@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "eventos-cy-s-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eventosCyS/EventosCySWebPart.js",
+          "manifest": "./src/webparts/eventosCyS/EventosCySWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "EventosCySWebPartStrings": "lib/webparts/eventosCyS/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "noticias-cy-s-client-side-solution",
+    "id": "930e89c6-ccc7-4dc0-9c54-5019525e9ee9",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/noticias-cy-s.sppkg"
+  }
+}

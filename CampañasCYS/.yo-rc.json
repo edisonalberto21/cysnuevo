@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.11.0",
+    "libraryName": "campa-as-cys",
+    "libraryId": "0f76a048-e163-4df3-8d58-07938d283176",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
